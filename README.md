@@ -27,7 +27,7 @@ universidad: Universidad Tecnológica de Panamá
 año:         4to año
 intereses:
   - Desarrollo Full-Stack
-  - Desarrollo Back con Java y Spring Boot
+  - Desarrollo Backend con Java y Spring Boot
 estado:      🟢 Abierto a pasantías y oportunidades
 ```
 
